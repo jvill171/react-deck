@@ -1,0 +1,16 @@
+.Deck{
+    margin: 30px 0;
+    padding: 30px;
+}
+
+.Deck-buttons{
+    height: 140px;
+    padding: 5px;
+}
+
+.Deck button {
+    padding: 20px;
+    margin: 5px;
+    border-radius: 14px;
+}
+
